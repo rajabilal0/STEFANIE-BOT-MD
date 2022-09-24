@@ -1,5 +1,5 @@
 {
-  "name": "Stefanie-whatsapp-bot-md",
+  "name": "Bilal-whatsapp-bot-md",
   "version": "4.0.1",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "stefanie.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "Mr.Raja Bilal",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
